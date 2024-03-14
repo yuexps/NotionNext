@@ -22,7 +22,7 @@ export const Footer = (props) => {
          <p>
            © {siteConfig('AUTHOR')} {copyrightDate}
          </p>
-         <Vercel />
+           <a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备2024024496号-1</a>
        </div>
      </div>
    </footer>
