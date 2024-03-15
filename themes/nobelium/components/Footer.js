@@ -23,11 +23,6 @@ export const Footer = (props) => {
            © {siteConfig('AUTHOR')} {copyrightDate}
          </p>
            <a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备2024024496号-1</a>
-            <div>
-              <img src="https://xjhw.gitee.io/images/beian.png" style="width:22px;display:inline" />
-              <a href="https://beian.mps.gov.cn/#/query/webSearch?code=50022302000755" rel="noreferrer"
-              target="_blank">渝公网安备50022302000755号</a>
-            </div>
        </div>
      </div>
    </footer>
